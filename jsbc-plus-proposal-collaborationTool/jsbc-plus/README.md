@@ -121,7 +121,7 @@ If approved, this repository will be created under JS-Base+ and follow the usual
 - Folder Name: `jsbc-plus`
 - Proposal Doc: `README.md` (this file)
 - Status: **Proposed**
-- Submitted by: _<your-github-username>_
+- Submitted by: _nforne_
 
 ---
 
